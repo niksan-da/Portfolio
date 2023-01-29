@@ -3,4 +3,4 @@ Completed projects
 
 ## Title
 
-**text**
+написать типа таблицы или списка с проектами
