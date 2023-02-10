@@ -1,7 +1,4 @@
 # Portfolio
-Completed projects
+Some completed projects
 
-## Title
-
-написать типа таблицы или списка с проектами
-в каждом проект также readme с кратким описание: задача, действия и инструменты, выводы
+...
