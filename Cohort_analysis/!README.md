@@ -16,3 +16,7 @@ pandas
 matplotlib
 
 numpy
+
+когортный анализ
+
+юнит-экономика
