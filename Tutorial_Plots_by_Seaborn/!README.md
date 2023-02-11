@@ -1,4 +1,4 @@
-# Учебник seaborn начального уровня: plots by seaborn.
+# Учебник seaborn начального уровня: plots by seaborn
 
 
 ## Смотреть:
