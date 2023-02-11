@@ -1,4 +1,4 @@
-# Учебник pandas начального уровня: Agg--GroupBy--Pivot_Table--Crosstab.
+# Учебник pandas начального уровня: agg--groupBy--pivot_table--crosstab.
 
 
 ## Смотреть:
