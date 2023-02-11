@@ -22,3 +22,7 @@ Pandas
 Matplotlib
 
 Seaborn
+
+folium
+
+json
