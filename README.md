@@ -19,4 +19,23 @@ folium
 
 json
 
-## [Visualization Catering_in_Moscow]( https://github.com/niksan-da/Portfolio/tree/main/Catering_in_Moscow)
+## [Интернет-магазин: A/B-тестирование гипотез]( https://github.com/niksan-da/Portfolio/tree/main/Catering_in_Moscow)
+
+### Описание проекта.
+Приоритизировали гипотезы.
+
+Запустили A/B-тест и проанализировали его результаты.
+
+### Инструменты.
+pandas
+
+matplotlib
+
+numpy
+
+scipy
+
+A/B-тесты
+
+проверка гипотез по Манн-Уитни
+
