@@ -1,5 +1,5 @@
 # Portfolio
-Некоторые выполненные проекты
+Некоторые выполненные проекты.
 
 ## [Visualization Catering_in_Moscow](https://github.com/niksan-da/Portfolio/tree/main/Catering_in_Moscow)
 
