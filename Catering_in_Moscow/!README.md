@@ -17,11 +17,11 @@
 По результату подготовили презентацию для инвесторов.
 
 ## Инструменты.
-Pandas
+pandas
 
-Matplotlib
+matplotlib
 
-Seaborn
+seaborn
 
 folium
 
