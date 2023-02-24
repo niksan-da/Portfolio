@@ -1,6 +1,7 @@
 # Интернет-магазин "Крупный": A/B-тестирование гипотез.
 
-**Статус: завершено.**
+**Статус: <span style="color:green"> завершён </span>.**
+
 
 ## Смотреть:
 [в Jupiter NoteBook](https://github.com/niksan-da/Portfolio/blob/main/AB-test_for_online_store/3--AB_test.ipynb),
