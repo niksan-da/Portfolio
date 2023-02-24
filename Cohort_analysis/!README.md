@@ -1,5 +1,6 @@
 # Когортный анализ: удержание, конверсия, окупаемость.
 
+*Статус: завершён.*
 
 ## Смотреть:
 [в Jupiter NoteBook](https://github.com/niksan-da/Portfolio/blob/main/Cohort_analysis/4--Cohort_analysis.ipynb),
