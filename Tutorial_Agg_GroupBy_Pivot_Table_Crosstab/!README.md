@@ -1,5 +1,6 @@
 # Учебник pandas начального уровня: agg--groupBy--pivot_table--crosstab.
 
+*Статус: завершён.*
 
 ## Смотреть:
 [в Jupiter NoteBook](https://github.com/niksan-da/Portfolio/blob/main/Tutorial_Agg_GroupBy_Pivot_Table_Crosstab/6--Tutorial_Agg--GroupBy--Pivot_Table--Crosstab.ipynb),
