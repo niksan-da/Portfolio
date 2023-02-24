@@ -1,5 +1,6 @@
 # Заведения общепита в Москве: исследование и визуализация.
 
+*Статус: завершён.*
 
 ## Смотреть:
 [в Jupiter NoteBook](https://github.com/niksan-da/Portfolio/blob/main/Catering_in_Moscow/1--Catering_in_Moscow.ipynb),
