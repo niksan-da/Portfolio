@@ -1,5 +1,6 @@
 # Учебник seaborn начального уровня: plots by seaborn
 
+*Статус: завершён.*
 
 ## Смотреть:
 [в Jupiter NoteBook](https://github.com/niksan-da/Portfolio/blob/main/Tutorial_Plots_by_Seaborn/7--Tutorial_Plots_by_Seaborn.ipynb),
