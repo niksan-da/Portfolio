@@ -1,5 +1,6 @@
 # Интернет-магазин: воронка событий.
 
+*Статус: завершён.*
 
 ## Смотреть:
 [в Jupiter NoteBook](https://github.com/niksan-da/Portfolio/blob/main/Event_funnel_for_online_store/2--Event_funnel.ipynb),
