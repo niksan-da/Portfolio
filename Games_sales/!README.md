@@ -1,5 +1,6 @@
 # Компьютерные игры: продажи и продвижение.
 
+*Статус: завершён.*
 
 ## Смотреть:
 [в Jupiter NoteBook](https://github.com/niksan-da/Portfolio/blob/main/Games_sales/5--Games_sales.ipynb),
