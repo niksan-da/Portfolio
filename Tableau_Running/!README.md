@@ -3,7 +3,7 @@
 *Статус: завершён.*
 
 ## Смотреть:
-[в Jupiter NoteBook](https://github.com/niksan-da/Portfolio/blob/main/AB-test_for_online_store/3--AB_test.ipynb),
+[в TWBX](https://github.com/niksan-da/Portfolio/blob/main/Tableau_Running/8--Tableau_Running.twbx),
 
 [в PDF](https://github.com/niksan-da/Portfolio/blob/main/Tableau_Running/8--Tableau_Running.pdf).
 
