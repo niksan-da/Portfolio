@@ -56,7 +56,7 @@
 ### Инструменты.
 `pandas`, `seaborn`, `matplotlib`
 
-## [Дашборд о беге в Tableau](https://github.com/niksan-da/Portfolio/tree/main/Tutorial_Plots_by_Seaborn)
+## [Дашборд о беге в Tableau](https://github.com/niksan-da/Portfolio/tree/main/Tableau_Running)
 
 ### Описание проекта.
 Визуализация основных показателей базы пробежек.
