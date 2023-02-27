@@ -55,3 +55,11 @@
 
 ### Инструменты.
 `pandas`, `seaborn`, `matplotlib`
+
+## [Tab](https://github.com/niksan-da/Portfolio/tree/main/Tutorial_Plots_by_Seaborn)
+
+### Описание проекта.
+Визуализация основных показателей пробежек.
+
+### Инструменты.
+`pandas`, `Tableau`
