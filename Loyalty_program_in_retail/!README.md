@@ -3,9 +3,9 @@
 *Статус: завершён.*
 
 ## Смотреть:
-[в Jupiter NoteBook](https://github.com/niksan-da/Portfolio/blob/main/Catering_in_Moscow/1--Catering_in_Moscow.ipynb),
+[в Jupiter NoteBook](https://github.com/niksan-da/Portfolio/blob/main/Loyalty_program_in_retail/9--Loyalty_program_in_retail.ipynb),
 
-[в HTML](https://github.com/niksan-da/Portfolio/blob/main/Catering_in_Moscow/1--Catering_in_Moscow.html).
+[в HTML](https://github.com/niksan-da/Portfolio/blob/main/Loyalty_program_in_retail/9--Loyalty_program_in_retail.html).
 
 
 ## Описание проекта.
