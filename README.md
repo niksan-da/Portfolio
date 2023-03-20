@@ -63,3 +63,11 @@
 
 ### Инструменты.
 `pandas`, `Tableau`
+
+## [Анализ программы лояльности розничного магазина](https://github.com/niksan-da/Portfolio/tree/main/Tableau_Running)
+
+### Описание проекта.
+Исследовали программу лояльности розничного магазина.
+
+### Инструменты.
+`pandas`, `matplotlib`, `seaborn`, `scipy`.
