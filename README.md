@@ -64,7 +64,7 @@
 ### Инструменты.
 `pandas`, `Tableau`
 
-## [Анализ программы лояльности розничного магазина](https://github.com/niksan-da/Portfolio/tree/main/Tableau_Running)
+## [Анализ программы лояльности розничного магазина](https://github.com/niksan-da/Portfolio/tree/main/Loyalty_program_in_retail)
 
 ### Описание проекта.
 Исследовали программу лояльности розничного магазина.
