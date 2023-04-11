@@ -5,12 +5,12 @@
 ## Смотреть:
 [Tableau public](https://public.tableau.com/app/profile/niksan2730/viz/Sausage_Market/Dashboard1#1),
 
-[в PDF](https://github.com/niksan-da/Portfolio/blob/main/Tableau_Running/8--Tableau_Running.pdf).
+[в PDF](https://github.com/niksan-da/Portfolio/blob/main/Tableau_Sausage_Market/10--Tableau_Sausage_Market.pdf).
 
-[в PNG](https://github.com/niksan-da/Portfolio/blob/main/Tableau_Running/8--Tableau_Running.png).
+[в PNG](https://github.com/niksan-da/Portfolio/blob/main/Tableau_Sausage_Market/10--Tableau_Sausage_Market.png).
 
 ## Описание проекта.
-Минимально предобработали исходные данные о производстве и экспорте/импорте колбасных изделий.
+Минимально предобработали исходные данные о производстве и экспорте/импорте колбасных изделий в РФ.
 
 Сверстали дашборд с основными показателями рынка таких изделий.
 
