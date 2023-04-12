@@ -72,7 +72,7 @@
 ### Инструменты.
 `pandas`, `matplotlib`, `seaborn`, `scipy`.
 
-## [Дашборд о рынке колбасных продуктов в Tableau](https://github.com/niksan-da/Portfolio/tree/main/Tableau_Running)
+## [Дашборд о рынке колбасных продуктов в Tableau](https://github.com/niksan-da/Portfolio/tree/main/Tableau_Sausage_Market)
 
 ### Описание проекта.
 Построил информативный дашборд в стиле журналистского исследования о рынке колбас и колбасной продукции.
