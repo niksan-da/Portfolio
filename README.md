@@ -3,87 +3,88 @@
 
 ## [Дашборд об обращениях в службу поддержки клиентов в Excel](https://github.com/niksan-da/Portfolio/tree/main/Dashbord_Support_service)
 
-### Описание проекта.
+### Описание проекта
 Построил аналитический дашборд для лида команды разработки об обращениях в службу поддержки клиентов.
 
-### Инструменты.
+### Инструменты
 `Excel`
 
 ## [Дашборд о рынке колбасных продуктов в Tableau](https://github.com/niksan-da/Portfolio/tree/main/Tableau_Sausage_Market)
 
-### Описание проекта.
+### Описание проекта
 Построил информативный дашборд в стиле журналистского исследования о рынке колбас и колбасной продукции.
 
-### Инструменты.
+### Инструменты
 `Excel`, `Tableau`
 
 ## [Visualization Catering_in_Moscow](https://github.com/niksan-da/Portfolio/tree/main/Catering_in_Moscow)
 
-### Описание проекта.
+### Описание проекта
 Исследовали и визуализировали особенности рынка общепита: категории заведений, средний чек, расположение и пр.
 
-### Инструменты.
+### Инструменты
 `pandas`, `matplotlib`,`seaborn`, `folium`, `json`
+
+## [Дашборд о беге в Tableau](https://github.com/niksan-da/Portfolio/tree/main/Tableau_Running)
+
+### Описание проекта
+Визуализация основных показателей данных о личных тренировках.
+
+### Инструменты
+`pandas`, `Tableau`
 
 ## [Интернет-магазин: A/B-тестирование гипотез](https://github.com/niksan-da/Portfolio/tree/main/AB-test_for_online_store)
 
-### Описание проекта.
+### Описание проекта
 Запустили A/B-тест и проанализировали его результаты.
 
-### Инструменты.
+### Инструменты
 `pandas`, `matplotlib`, `numpy`, `scipy`, `A/B-тесты`, `проверка гипотез по Манн-Уитни`
 
 ## [Когортный анализ](https://github.com/niksan-da/Portfolio/tree/main/Cohort_analysis)
 
-### Описание проекта.
+### Описание проекта
 С помощью когортного анализа определили причины возникновения убытков мобильного приложения и предложили пути финансового оздоровления сервиса.
 
-### Инструменты.
+### Инструменты
 `pandas`, `matplotlib`, `numpy`, `когортный анализ`, `юнит-экономика`
 
 ## [Интернет-магазин: воронка событий](https://github.com/niksan-da/Portfolio/tree/main/Event_funnel_for_online_store)
 
-### Описание проекта.
+### Описание проекта
 Изучили воронку событий интернет-магазина. Проверили гипотезу об изменении в воронке после внедрения новых шрифтов.
 
-### Инструменты.
+### Инструменты
 `pandas`, `matplotlib`, `numpy`, `scipy`, `math`, `проверка гипотез о равенстве средних`
 
 ## [Компьютерные игры: продажи и продвижение](https://github.com/niksan-da/Portfolio/tree/main/Games_sales)
 
-### Описание проекта.
+### Описание проекта
 Определили закономерности, определяющие успешность компьютерных игр.
 
-### Инструменты.
+### Инструменты
 `pandas`, `matplotlib`, `seaborn`, `numpy`, `проверка гипотез с помощью t-test`
 
 ## [Учебник pandas: agg--groupBy--pivot_table--crosstab](https://github.com/niksan-da/Portfolio/tree/main/Tutorial_Agg_GroupBy_Pivot_Table_Crosstab)
 
-### Описание проекта.
+### Описание проекта
 Простое описание методов pandas для junior-аналитиков с примерами.
-### Инструменты.
+ 
+### Инструменты
 `pandas`
 
 ## [Учебник seaborn начального уровня: plots by seaborn](https://github.com/niksan-da/Portfolio/tree/main/Tutorial_Plots_by_Seaborn)
 
-### Описание проекта.
+### Описание проекта
 Простое описание визуализации с помощью seaborn для junior-аналитиков с примерами.
 
-### Инструменты.
+### Инструменты
 `pandas`, `seaborn`, `matplotlib`
-
-## [Дашборд о беге в Tableau](https://github.com/niksan-da/Portfolio/tree/main/Tableau_Running)
-
-### Описание проекта.
-Визуализация основных показателей базы пробежек.
-
-### Инструменты.
-`pandas`, `Tableau`
 
 ## [Анализ программы лояльности розничного магазина](https://github.com/niksan-da/Portfolio/tree/main/Loyalty_program_in_retail)
 
-### Описание проекта.
+### Описание проекта
 Исследовали программу лояльности розничного магазина.
 
-### Инструменты.
+### Инструменты
 `pandas`, `matplotlib`, `seaborn`, `scipy`.
