@@ -1,6 +1,14 @@
 # Portfolio
 Некоторые выполненные проекты.
 
+## [Дашборд о рынке колбасных продуктов в Tableau](https://github.com/niksan-da/Portfolio/tree/main/Tableau_Sausage_Market)
+
+### Описание проекта.
+Построил информативный дашборд в стиле журналистского исследования о рынке колбас и колбасной продукции.
+
+### Инструменты.
+`Excel`, `Tableau`
+
 ## [Visualization Catering_in_Moscow](https://github.com/niksan-da/Portfolio/tree/main/Catering_in_Moscow)
 
 ### Описание проекта.
@@ -71,11 +79,3 @@
 
 ### Инструменты.
 `pandas`, `matplotlib`, `seaborn`, `scipy`.
-
-## [Дашборд о рынке колбасных продуктов в Tableau](https://github.com/niksan-da/Portfolio/tree/main/Tableau_Sausage_Market)
-
-### Описание проекта.
-Построил информативный дашборд в стиле журналистского исследования о рынке колбас и колбасной продукции.
-
-### Инструменты.
-`Excel`, `Tableau`
