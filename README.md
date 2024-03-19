@@ -1,6 +1,14 @@
 # Portfolio
 Некоторые выполненные проекты.
 
+## [Дашборд об обращениях в службу поддержки клиентов в Excel](https://github.com/niksan-da/Portfolio/tree/main/Dashbord_Support_service)
+
+### Описание проекта.
+Построил аналитический дашборд для лида команды разработки об обращениях в службу поддержки клиентов.
+
+### Инструменты.
+`Excel`
+
 ## [Дашборд о рынке колбасных продуктов в Tableau](https://github.com/niksan-da/Portfolio/tree/main/Tableau_Sausage_Market)
 
 ### Описание проекта.
