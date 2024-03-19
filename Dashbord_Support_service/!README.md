@@ -3,9 +3,9 @@
 *Статус: завершён.*
 
 ## Смотреть:
-[в PDF](),
+[в PDF](https://github.com/niksan-da/Portfolio/blob/main/Dashbord_Support_service/Dashbord_Support_service.pdf),
 
-[в PNG]().
+[в PNG](https://github.com/niksan-da/Portfolio/blob/main/Dashbord_Support_service/Dashbord_Support_service.png).
 
 ## Описание проекта
 ### Техническое задание
