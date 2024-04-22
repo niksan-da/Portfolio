@@ -1,6 +1,22 @@
 # Portfolio
 Некоторые выполненные проекты.
 
+## [Дашборд о результатах спортивной команды в Excel](https://github.com/niksan-da/Portfolio/tree/main/Dashbord_Sportteam)
+
+### Описание проекта
+Аналитический дашборд для отслеживания результатов корпоративной спортивной команды.
+
+### Инструменты
+`Excel`
+
+## [Дашборд о личных финансах в Excel](https://github.com/niksan-da/Portfolio/tree/main/Dashbord_Personal_finance)
+
+### Описание проекта
+Аналитический дашборд для управления личными финансами: доходами и накоплениями.
+
+### Инструменты
+`Excel`
+
 ## [Дашборд об обращениях в службу поддержки клиентов в Excel](https://github.com/niksan-da/Portfolio/tree/main/Dashbord_Support_service)
 
 ### Описание проекта
