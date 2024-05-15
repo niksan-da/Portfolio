@@ -7,6 +7,11 @@
 
 [в PNG](https://github.com/niksan-da/Portfolio/blob/main/Dashbord_Support_service/Dashbord_Support_service.png).
 
+## Смотреть версию 2.0:
+[в PDF](https://github.com/niksan-da/Portfolio/blob/main/Dashbord_Support_service/Dashbord_Support_service-2.pdf),
+
+[в PNG](https://github.com/niksan-da/Portfolio/blob/main/Dashbord_Support_service/Dashbord_Support_service-2.png).
+
 ## Описание проекта
 ### Техническое задание
 Построить аналитический дашборд, посвящённый обращениям в службу поддержки.
@@ -42,10 +47,6 @@
 - переработана вёрстка: выделены наиболее востребованные диаграммы;
 - переработан дизайн;
 - внедрены общие срезы.
-## Смотреть версию 2.0:
-[в PDF](https://github.com/niksan-da/Portfolio/blob/main/Dashbord_Support_service/Dashbord_Support_service-2.pdf),
-
-[в PNG](https://github.com/niksan-da/Portfolio/blob/main/Dashbord_Support_service/Dashbord_Support_service-2.png).
 
 ## Инструменты
 Excel
