@@ -42,6 +42,13 @@
 - переработана вёрстка: выделены наиболее востребованные диаграммы;
 - переработан дизайн;
 - внедрены общие срезы.
+## Смотреть версию 2.0:
+[в PDF](https://github.com/niksan-da/Portfolio/blob/main/Dashbord_Support_service/Dashbord_Support_service.pdf),
+
+[в PNG](https://github.com/niksan-da/Portfolio/blob/main/Dashbord_Support_service/Dashbord_Support_service.png).
+
+
+
 
 ## Инструменты
 Excel
