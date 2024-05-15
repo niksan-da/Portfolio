@@ -43,12 +43,9 @@
 - переработан дизайн;
 - внедрены общие срезы.
 ## Смотреть версию 2.0:
-[в PDF](https://github.com/niksan-da/Portfolio/blob/main/Dashbord_Support_service/Dashbord_Support_service.pdf),
+[в PDF](https://github.com/niksan-da/Portfolio/blob/main/Dashbord_Support_service/Dashbord_Support_service-2.pdf),
 
-[в PNG](https://github.com/niksan-da/Portfolio/blob/main/Dashbord_Support_service/Dashbord_Support_service.png).
-
-
-
+[в PNG](https://github.com/niksan-da/Portfolio/blob/main/Dashbord_Support_service/Dashbord_Support_service-2.png).
 
 ## Инструменты
 Excel
