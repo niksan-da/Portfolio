@@ -9,7 +9,7 @@
 
   
 ## Решение
-'''sql
+``` sql
 SELECT
 CASE WHEN (SELECT COUNT (*)
 FROM online_store.costs) % 2 = 0 THEN ( 
@@ -33,7 +33,7 @@ ELSE (
 END
 FROM online_store.costs
 LIMIT 1;
-'''
+```
 
 
 
