@@ -11,25 +11,26 @@
 ## Решение
 ``` sql
 SELECT
-CASE WHEN
-(SELECT COUNT (*)
-FROM online_store.costs) % 2 = 0 THEN
-   (SELECT AVG(costs)
+CASE WHEN (
+   SELECT COUNT (*)
+   FROM online_store.costs) % 2 = 0
+THEN ( 
+   SELECT AVG(costs)
    FROM (
-   SELECT costs
-   FROM online_store.costs
-   ORDER BY costs
-   LIMIT 2 OFFSET div(
-   (SELECT COUNT(*)
-   FROM online_store.costs), 2)-1)
+      SELECT costs
+      FROM online_store.costs
+      ORDER BY costs
+      LIMIT 2 OFFSET div(
+         (SELECT COUNT(*)
+         FROM online_store.costs), 2)-1)
 )
 ELSE (
    SELECT costs
    FROM online_store.costs
    ORDER BY costs
    LIMIT 1 OFFSET div(
-   (SELECT COUNT(*)
-   FROM online_store.costs), 2)
+      (SELECT COUNT(*)
+      FROM online_store.costs), 2)
 )
 END
 FROM online_store.costs
