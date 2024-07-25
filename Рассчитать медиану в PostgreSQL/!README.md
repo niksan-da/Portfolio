@@ -1,7 +1,7 @@
-# Как рассчитать медиану в PostgreSQL с иипользованием базовых операторов
+# Как рассчитать медиану в PostgreSQL с использованием базовых операторов
 
 ## Общее замечание
-Медиана — это такое число, что половина элементов набора чисел не меньше неё, а другая половина — не больше.
+Медиана -- это такое число, что половина элементов набора чисел не меньше неё, а другая половина -- не больше.
 
 Если набор содержит нечётное количество чисел, то медиана окажется по середине набора, упорядоченного по возрастанию.
 
@@ -13,33 +13,36 @@
 SELECT
 CASE WHEN (
    SELECT COUNT (*)
-   FROM online_store.costs) % 2 = 0
+   FROM table) % 2 = 0
 THEN ( 
-   SELECT AVG(costs)
+   SELECT AVG(values)
    FROM (
-      SELECT costs
-      FROM online_store.costs
-      ORDER BY costs
-      LIMIT 2 OFFSET div(
-         (SELECT COUNT(*)
-         FROM online_store.costs), 2)-1)
+      SELECT values
+      FROM table
+      ORDER BY values
+      LIMIT 2 OFFSET (
+         SELECT COUNT(*)
+         FROM table)
+         / 2 - 1)
 )
 ELSE (
-   SELECT costs
-   FROM online_store.costs
-   ORDER BY costs
+   SELECT values
+   FROM table
+   ORDER BY values
    LIMIT 1 OFFSET div(
       (SELECT COUNT(*)
-      FROM online_store.costs), 2)
+      FROM table), 2)
 )
 END
-FROM online_store.costs
+FROM table
 LIMIT 1;
 ```
 
   
 ## Примечания
-1. 
+1. table -- ваша таблица;
+values -- поле со значениями;
+2. 
 
 ## Инструменты
 SQL
